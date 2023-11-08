@@ -1,6 +1,6 @@
 # File-Cloning
 
-[💙]👉🏻 Test Update Done 
+[💙]👉🏻 Update Done 
 
 [💙]👉🏻 Only Active idr File
 
@@ -8,7 +8,7 @@
 
 [💙]👉🏻 Cloning Speed Super Fast
 
-[💙]👉🏻 Test VERSION 1.0
+[💙]👉🏻 VERSION 1.2
 
 [💙]👉🏻 UnActive id Not Allow ❌
 
